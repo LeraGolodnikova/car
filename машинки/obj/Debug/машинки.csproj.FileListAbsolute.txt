@@ -1,0 +1,15 @@
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\bin\Debug\машинки.exe.config
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\bin\Debug\машинки.exe
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\bin\Debug\машинки.pdb
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.csproj.AssemblyReference.cache
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\MainWindow.g.cs
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\App.g.cs
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки_MarkupCompile.cache
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки_MarkupCompile.lref
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\MainWindow.baml
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.g.resources
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.Properties.Resources.resources
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.csproj.GenerateResource.cache
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.csproj.CoreCompileInputs.cache
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.exe
+C:\Users\Stranger\Documents\учёба\ебаные кода\машинки\машинки\obj\Debug\машинки.pdb
